@@ -38,18 +38,18 @@ full-time roles.
 - `Feedback focus`: `Overall improvement`
 
 **Expected AI response type:**
-- A balanced resume review with a clear overall impression
-- Strengths tied to analysis, communication, and work ethic
-- Improvement ideas around specificity, business language, and stronger outcomes
-- Missing keywords such as stakeholder communication, dashboarding, and data analysis
-- Revised bullet suggestions and ATS alignment guidance
-- Three practical next steps
+- A balanced resume review with a clear overall impression.
+- Strengths tied to analysis, communication, and work ethic.
+- Improvement ideas around specificity, business language, and stronger outcomes.
+- Missing keywords such as stakeholder communication, dashboarding, and data analysis.
+- Revised bullet suggestions and ATS alignment guidance.
+- Three practical next steps.
 
 **What to check during manual testing:**
-- The response follows the required resume structure
-- The feedback matches the selected focus of `Overall improvement`
-- Suggested rewrites do not invent metrics or experience
-- The advice feels relevant for a first-generation business student, not generic corporate jargon
+- The response follows the required resume structure.
+- The feedback matches the selected focus of `Overall improvement`.
+- Suggested rewrites do not invent metrics or experience.
+- The advice feels relevant for a first-generation business student, not generic corporate jargon.
 
 **Why this test supports the project mission:**
 It validates that the app can help a student translate everyday academic and work
@@ -69,16 +69,16 @@ experience into stronger internship-ready resume language.
   `I am a first-generation junior majoring in business administration and I am exploring Business Analyst internships. I am especially interested in how professionals use data to support strategy decisions.`
 
 **Expected AI response type:**
-- A short LinkedIn note under 300 characters
-- A polished short email version
-- A respectful follow-up message for 5 to 7 days later
-- Two tips for personalization without overstating experience
+- A short LinkedIn note under 300 characters.
+- A polished short email version.
+- A respectful follow-up message for 5 to 7 days later.
+- Two tips for personalization without overstating experience.
 
 **What to check during manual testing:**
-- The LinkedIn version is concise enough for a connection request
-- The email version sounds professional and not desperate
-- The follow-up message is polite and low-pressure
-- The output reflects the selected audience, goal, and tone
+- The LinkedIn version is concise enough for a connection request.
+- The email version sounds professional and not desperate.
+- The follow-up message is polite and low-pressure.
+- The output reflects the selected audience, goal, and tone.
 
 **Why this test supports the project mission:**
 It checks whether the app helps first-generation students build professional
@@ -100,18 +100,18 @@ network confidence with realistic, respectful outreach language.
 - `Preferred intro length`: `60 seconds`
 
 **Expected AI response type:**
-- Five likely software engineering interview questions
-- Clear reasoning for why each question matters
-- Suggested answer structures that use projects, tutoring, and coursework
-- STAR guidance where appropriate
-- One practice tip per question
-- A tailored example 60-second elevator pitch based on the student's real background
+- Five likely software engineering interview questions.
+- Clear reasoning for why each question matters.
+- Suggested answer structures that use projects, tutoring, and coursework.
+- STAR guidance where appropriate.
+- One practice tip per question.
+- A tailored example 60-second elevator pitch based on the student's real background.
 
 **What to check during manual testing:**
-- The interview questions are relevant to software engineering internships
-- The answer guidance works for a student without prior formal internship experience
-- The 60-second pitch is actually included
-- The pitch uses only the provided background and does not invent technologies, internships, or achievements
+- The interview questions are relevant to software engineering internships.
+- The answer guidance works for a student without prior formal internship experience.
+- The 60-second pitch is actually included.
+- The pitch uses only the provided background and does not invent technologies, internships, or achievements.
 
 **Why this test supports the project mission:**
 It validates that the app can build interview confidence for students whose most
@@ -131,17 +131,17 @@ relevant experience comes from coursework, projects, and peer support roles.
   `I am the first in my family to pursue a tech internship and I am not always sure how many applications, referrals, and networking steps I should balance each week.`
 
 **Expected AI response type:**
-- Best-fit internship titles such as software engineering intern, backend intern, and full-stack intern
-- Search keywords aligned to internship search platforms
-- Suggested organization types such as startups, mid-size tech companies, and university-affiliated programs
-- A weekly strategy that fits a 10-hour schedule
-- Networking advice, skill gaps, and three immediate actions
-
+- Best-fit internship titles such as software engineering intern, backend intern, and full-stack intern.
+- Search keywords aligned to internship search platforms.
+- Suggested organization types such as startups, mid-size tech companies, and university-affiliated programs.
+- A weekly strategy that fits a 10-hour schedule.
+- Networking advice, skill gaps, and three immediate actions.
+  
 **What to check during manual testing:**
-- The weekly plan scales to the selected `10` hours
-- The advice is specific and structured rather than generic motivation
-- The response avoids guaranteeing interviews or offers
-- The recommended search keywords match the student's stated interest area
+- The weekly plan scales to the selected `10` hours.
+- The advice is specific and structured rather than generic motivation.
+- The response avoids guaranteeing interviews or offers.
+- The recommended search keywords match the student's stated interest area.
 
 **Why this test supports the project mission:**
 It checks whether the app can turn uncertainty into a practical plan for a
@@ -162,17 +162,17 @@ first-generation student navigating internship recruiting with limited time.
 - `How confident do you feel about your career path right now?`: `6`
 
 **Expected AI response type:**
-- A realistic 30/60/90-day roadmap summary
-- A weekly learning plan with manageable focus areas
-- Project suggestions related to analytics engineering or data transformation
-- Networking actions and resume or LinkedIn improvements
-- Milestones and a final expected portfolio outcome
+- A realistic 30/60/90-day roadmap summary.
+- A weekly learning plan with manageable focus areas.
+- Project suggestions related to analytics engineering or data transformation.
+- Networking actions and resume or LinkedIn improvements.
+- Milestones and a final expected portfolio outcome.
 
 **What to check during manual testing:**
-- The roadmap reflects analytics engineering goals rather than generic data advice
-- The plan is actionable and not overwhelming
-- The selected support areas appear in the guidance
-- The milestones feel appropriate for a graduate student with moderate confidence
+- The roadmap reflects analytics engineering goals rather than generic data advice.
+- The plan is actionable and not overwhelming.
+- The selected support areas appear in the guidance.
+- The milestones feel appropriate for a graduate student with moderate confidence.
 
 **Why this test supports the project mission:**
 It validates that the app can support students moving from education into
@@ -189,4 +189,3 @@ steps.
 - Outputs are relevant and structured
 - Responsible AI disclaimer is visible
 - No API key is exposed
-- Screenshots are captured for README
