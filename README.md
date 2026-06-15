@@ -40,10 +40,10 @@ action-oriented guidance that can help users move from uncertainty to next
 steps.
 
 The project prioritizes:
-- practical usefulness over platform complexity
-- supportive, confidence-building language
-- responsible AI boundaries
-- a clean structure that is easy to understand and extend
+- Practical usefulness over platform complexity.
+- Supportive, confidence-building language.
+- Responsible AI boundaries.
+- A clean structure that is easy to understand and extend.
 
 **Live demo assets**
 - Full demo video: [media/ai_career_assistant_demo.webm](media/ai_career_assistant_demo.webm)
@@ -70,11 +70,11 @@ practical action quickly.
 Early career decisions can be high pressure, especially for students who are
 learning professional norms in real time. A supportive tool can reduce friction
 in moments such as:
-- rewriting resume bullets
-- sending a first networking message
-- preparing for a first internship interview
-- organizing a job search plan
-- translating long-term goals into short-term action
+- Rewriting resume bullets.
+- Sending a first networking message.
+- Preparing for a first internship interview.
+- Organizing a job search plan.
+- Translating long-term goals into short-term action.
 
 The goal is not to replace mentors, advisors, or career centers. The goal is to
 help students show up to those opportunities better prepared and more confident.
@@ -123,24 +123,24 @@ help students show up to those opportunities better prepared and more confident.
 ## Features
 
 ### Resume Feedback
-- Reviews resume bullets or experience summaries against a target role
-- Highlights strengths, improvement areas, keywords, and ATS alignment ideas
+- Reviews resume bullets or experience summaries against a target role.
+- Highlights strengths, improvement areas, keywords, and ATS alignment ideas.
 
 ### Networking Message Generator
-- Drafts LinkedIn connection notes, short emails, and polite follow-ups
-- Adapts tone based on audience and outreach goal
+- Drafts LinkedIn connection notes, short emails, and polite follow-ups.
+- Adapts tone based on audience and outreach goal.
 
 ### Interview Practice
-- Generates likely interview questions, answer structures, and practice tips
-- Includes a tailored 60 or 30 second pitch example when that option is selected
+- Generates likely interview questions, answer structures, and practice tips.
+- Includes a tailored 60 or 30 second pitch example when that option is selected.
 
 ### Job Search Guidance
-- Suggests role titles, search keywords, target organizations, and weekly strategy
-- Adjusts guidance to the student's stage, challenge, and available time
+- Suggests role titles, search keywords, target organizations, and weekly strategy.
+- Adjusts guidance to the student's stage, challenge, and available time.
 
 ### Career Roadmap Builder
-- Creates a realistic 30/60/90 day roadmap with milestones and portfolio actions
-- Helps students connect long-term goals with weekly progress
+- Creates a realistic 30/60/90 day roadmap with milestones and portfolio actions.
+- Helps students connect long-term goals with weekly progress.
 
 --- 
 
@@ -241,30 +241,30 @@ streamlit run app.py
 
 The manual testing set for this project uses three realistic personas:
 
-- A first-generation business student targeting a Business Analyst internship
-- A Computer Science student targeting a Software Engineering internship
-- An Information Management graduate student targeting Analytics Engineer new grad roles
+- A first-generation business student targeting a Business Analyst internship.
+- A Computer Science student targeting a Software Engineering internship.
+- An Information Management graduate student targeting Analytics Engineer new grad roles.
 
 Those test cases cover all five services and are documented in
 [docs/sample_outputs.md](docs/sample_outputs.md).
 
 Examples of supported use cases:
-- Improve internship resume bullets for a business student
-- Draft a respectful networking note to an alum in a target field
-- Practice software engineering interview questions with a tailored pitch example
-- Build a weekly job search strategy for a student with limited time
-- Create a 30/60/90-day roadmap toward analytics engineering roles
+- Improve internship resume bullets for a business student.
+- Draft a respectful networking note to an alum in a target field.
+- Practice software engineering interview questions with a tailored pitch example.
+- Build a weekly job search strategy for a student with limited time.
+- Create a 30/60/90-day roadmap toward analytics engineering roles.
 
 ---
 
 ## Future Improvements
 
-- Add richer input validation and more user-friendly empty-state guidance
-- Save session history locally for the current user session
-- Add export options for resume feedback and roadmap outputs
-- Improve visual polish and mobile responsiveness
-- Add curated example prompts for first-time users
-- Expand testing coverage with more personas and edge cases
+- Add richer input validation and more user-friendly empty-state guidance.
+- Save session history locally for the current user session.
+- Add export options for resume feedback and roadmap outputs.
+- Improve visual polish and mobile responsiveness.
+- Add curated example prompts for first-time users.
+- Expand testing coverage with more personas and edge cases.
 
 ---
 
